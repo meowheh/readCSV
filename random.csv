@@ -1,0 +1,4 @@
+day,week,month,year
+1,7,28,30
+31,2,12,365
+=day1*week1,=week1*week2,=month2*day3,=year2*day1
