@@ -11,7 +11,7 @@ int main(int argc, char *argv[]){
          //argv[1] - file name
         nameFile = argv[1];
     }
-    //check if file is not empty
+    //check if name of file is not empty
     if(!nameFile.empty()){
         std::ifstream file;
         //open file
