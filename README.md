@@ -7,4 +7,4 @@
 Было успешно скомпилировано на Linux с помощью clang: **clang++ main.cpp readCSV.cpp -o <name_file>**
 <br>И на Windows с помощью компилятора mingw: **g++ main.cpp readCSV.cpp -o <name_file>**
 <br>
-Запуск: **./<name_file> file.csv**
+Поддерживает запуск сразу с передачей имени файла: **./<name_file> file.csv** или без передачи с последующим вводом имени в консоль
